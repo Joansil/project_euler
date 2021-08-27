@@ -1,6 +1,6 @@
 # ProjectEuler
 
-**TODO: Add description**
+**Solutions to the firsts 10 Project Euler problems, here: https://projecteuler.net/archives**
 
 ## Installation
 
