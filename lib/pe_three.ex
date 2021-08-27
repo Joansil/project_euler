@@ -1,6 +1,6 @@
 defmodule PeThree do
   @moduledoc """
-    Showing the second problem of Projec Euler
+    Showing the 3th problem of Projec Euler
   """
   @doc """
   Largest prime factor

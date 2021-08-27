@@ -1,6 +1,6 @@
 defmodule PeFour do
   @moduledoc """
-  Showing the first problem of Project Euler
+  Showing the forth problem of Project Euler
   """
 
   @doc """
